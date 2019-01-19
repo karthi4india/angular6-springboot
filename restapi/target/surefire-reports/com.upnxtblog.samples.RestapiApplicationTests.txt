@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.upnxtblog.samples.RestapiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.23 s - in com.upnxtblog.samples.RestapiApplicationTests
